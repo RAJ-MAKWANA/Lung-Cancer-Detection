@@ -12,11 +12,11 @@ This project implements a deep learning-based application for diagnosing cancer 
 
 ## Table of Contents
 
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [File Descriptions](#file-descriptions)
-4. [Model Overview](#model-overview)
-5. [Credits](#credits)
+1. Installation
+2. Usage
+3. File Descriptions
+4. Model Overview
+5. Credits
 
 ---
 
